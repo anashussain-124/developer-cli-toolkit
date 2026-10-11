@@ -1,0 +1,7 @@
+{
+  "app_name": "Developer CLI Toolkit",
+  "version": "1.0",
+  "language": "Python",
+  "skills": ["Linux", "Git", "Python"],
+  "debug": true
+}
